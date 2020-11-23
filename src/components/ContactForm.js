@@ -62,7 +62,7 @@ class ContactForm extends React.Component {
             <select 
               name="subject" 
               value={this.state.value} 
-              onChange={this.handleChange}>
+              onChange={this.handleInputChange}>
               <option></option>
               <option value="support">Support</option>
               <option value="sales">Sales</option>
