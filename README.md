@@ -8,7 +8,7 @@ This is a basic example of using forms in a React.js webpage. The example includ
 
 * [React](https://reactjs.org/)
 
-Full tutorial URL: https://codeadam.ca/learning/react-forms.html
+> Full tutorial URL: https://codeadam.ca/learning/react-forms.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
