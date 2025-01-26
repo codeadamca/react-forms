@@ -10,6 +10,7 @@ This is a basic example of using forms in a React.js webpage. The example includ
 
 * [React](https://reactjs.org/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
